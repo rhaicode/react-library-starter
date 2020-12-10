@@ -8,6 +8,7 @@
 - [Rollup](https://rollupjs.org/) for bundling (with a customizable bundler config file)
 - [Babel](https://babeljs.io/) for transpiling
 - [Storybook](https://storybook.js.org) for development and component explorer
+- [SVGR](https://react-svgr.com/) support
 - Uses [TailwindCSS 2.0](https://blog.tailwindcss.com/tailwindcss-v2)
 - Supports CSS modules
 - Supports CJS, ESM and UMD formats
