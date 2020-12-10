@@ -25,6 +25,10 @@ npm install --production=false
 npm run storybook
 ```
 
+Go to `localhost:6006` and you should see something like this.
+
+![storybook-dev](https://user-images.githubusercontent.com/22829115/101779100-c59f8680-3b2f-11eb-985f-ca2ba37ed1f7.png)
+
 ## Building
 To build your project, run `npm run build`.
 
