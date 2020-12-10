@@ -18,7 +18,7 @@
 
 ## Development
 
-Clone this repo and run the following commands to start development with storybook.
+Clone this repo and run the following commands to start development with Storybook.
 
 ```bash
 npm install --production=false
