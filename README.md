@@ -10,9 +10,11 @@
 - [Storybook](https://storybook.js.org) for development and component explorer
 - [SVGR](https://react-svgr.com/) support
 - Uses [TailwindCSS 2.0](https://blog.tailwindcss.com/tailwindcss-v2)
-- Supports CSS modules
+- Linting before commit support with [ESLint](https://eslint.org/), [Husky](https://github.com/typicode/husky) and [Lint Staged](https://github.com/okonet/lint-staged)
+- Supports CSS modules configurable with [PostCSS](https://postcss.org/)
+- [styled-components](https://styled-components.com/) support
+- [react-uuid](https://www.npmjs.com/package/react-uuid) for component key indexing
 - Supports CJS, ESM and UMD formats
-- Peer dependencies to external deps detection
 - Sourcemap creation
 
 
