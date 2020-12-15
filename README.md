@@ -1,6 +1,6 @@
 # react-library-starter
 
-⚡ A bundler for your React projects, powered by Rollup.
+⚡ A library starter kit and bundler for your React projects, powered by Rollup.
 
 ## Features
 
